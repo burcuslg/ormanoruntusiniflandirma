@@ -14,7 +14,8 @@
 ![Assdsssıaaz](https://user-images.githubusercontent.com/77288192/179397020-053c329a-59fc-4066-a7a2-a32f443bf152.png)
 
 ## Özniteliklerin ilişkilendirildiği korelasyon matrisi
-![image](https://user-images.githubusercontent.com/77288192/179397168-f80af5a9-31bc-478c-bfbb-bc564885c331.png)
+![aa,,](https://user-images.githubusercontent.com/77288192/179397266-b8386c92-7584-4687-895b-6f33a91fb878.png)
+
 
 #### Bu çalışmada Colorado'daki Roosevelt Ulusal Ormanı'nın dört bölgesinden ağaç gözlemlerini içeren ormanın 30 metre x 30 metrelik bölümlerinden alınan verilerle, veri setine ilgili değerlerin öznitelik isimleri eklenerek denetimli öğrenme ile birbirleriyle ilişkili özniteliklerin ele alınarak orman türü tipinin tahmin edilerek sınıflandırması işlemi yapılmıştır. Çalışmanın genel amacı dünyanın global sorunu haline gelen ve son yıllarda ülkemizde, dünyada etkili olan orman yangınları sonucu yok olan orman bölgelerinin hızlı ve en doğru şekilde geliştirilebilecek yeni orman örtü tipinin tahmin ile seçilerek yeniden hayvanlara ve insanların bugünü, yarını ve geleceği esasında oluşum süresini hızlandırmaya yardımcı olmak amaçlanmıştır. Hızlı ve etkili yapılabilecek bu orman tipi sınıflandırma işlemiyle hayvanların doğal yaşam yerleri, habitatları olan ormanların oluşturulmasında katkı sağlanarak yapılma amacı güdülmektedir. Bu sebeple yapılan çalışma bir orman türünde gerekli ve ilişkili özniteliklerin önem oranı esas alınarak orman örtü tipinin sınıflandırılması işlemi uygulanmıştır. Çalışmada makine öğrenmesi algoritmaları kullanılarak veri analiz edilmiş ve Rastgele Orman bu veri seti için en başarılı bulunmuştur.
 
